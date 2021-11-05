@@ -1,0 +1,144 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.top-menu {
+	width: 1300px;
+	margin: 0 auto;
+	line-height: 64px;
+
+}
+
+.top-menu ul li {
+	display: inline-block;
+	margin-left: 10px;
+
+}
+
+.top-menu img {
+	float: left;
+}
+
+.top-menu a {
+	display: block;
+	height: 64px;
+	width: auto;
+	text-decoration: none;
+	color: #000;
+	padding: 0 0px;
+	font-family: Roboto, sans-serif;
+	text-transform: uppercase;
+
+}
+
+
+
+
+.container {
+	width: 1300px;
+	margin: 0 auto;
+	font-family: Roboto, sans-serif;
+}
+
+.left-sb {
+	width: 200px;
+	background-color: #eee;
+	float: left;
+
+}
+
+.left-sb h2 {
+	width: 200px;
+	padding: 0 auto;
+	margin: 20px;
+	font-size: 32px; 
+}
+
+.left-sb ul {
+	margin: 0 20px;
+	width: 200px;
+	list-style: none;
+	text-transform: uppercase;
+	line-height: 35px;
+}
+
+
+.right-sb {
+	width: 1000px;
+	height: 637px;
+	display: block;
+	background-color: #fff;
+	float: right;
+}
+
+.right-sb h5 {
+	margin: 0px 40px;
+
+}
+
+.right-sb h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px 40px;
+	display: flex;
+}
+
+.article {
+	width: 900px;
+	height: 200px;
+	margin: 0 20px;
+	display: flex;
+}
+
+.art-image {
+	margin: 25px 20px;
+	width: 230px;
+	height: 130px;
+	border-radius: 10px;
+	background-size: cover;
+}
+
+.art-about {
+	width: 500px;
+	height: 150px;
+	margin: 30px 0;
+}
+
+.art-about h4 {
+	margin: 10px;
+	line-height: 25px;
+}
+
+.art-about span {
+	margin: 10px;
+	color: grey;
+	font-style: italic;
+}
+
+.tags {
+	margin: 10px;
+	color: pink;
+	font-style: italic;
+	border-bottom: 1px dotted black;
+}
+
+.art-about img{
+	width: 15px;
+	height: 15px;
+	margin: 0 -10px -2px 0;
+}
+
+.tags span {
+	margin: 12px;
+}
+
+#first-image {
+	background-image: url(http://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Undertale_image1280w.jpg);
+}
+
+#second-image {
+	background-image: url(https://3dnews.ru/assets/external/illustrations/2020/09/16/1020753/01.jpg);
+}
+
