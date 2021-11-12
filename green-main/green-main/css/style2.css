@@ -28,8 +28,8 @@
 	text-decoration: none;
 	color: #000;
 	padding: 0 0px;
-	font-family: Roboto, sans-serif;
-	text-transform: uppercase;
+	font-family: Press, sans-serif;
+	text-transform: Press Start 2P;
 
 }
 
@@ -142,3 +142,11 @@
 	background-image: url(https://3dnews.ru/assets/external/illustrations/2020/09/16/1020753/01.jpg);
 }
 
+
+
+
+
+@font-face {
+	font-family: Press;
+	src: url(FONTS/PressStart2P-Regular.ttf);
+}

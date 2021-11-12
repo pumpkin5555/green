@@ -75,6 +75,8 @@
 
 .right-sb h5 {
 	margin: 0px 40px;
+	font-family: Press;
+}
 
 }
 
@@ -142,3 +144,12 @@
 	background-image: url(https://3dnews.ru/assets/external/illustrations/2020/09/16/1020753/01.jpg);
 }
 
+#third-image {
+	background-image: url(http://pa1.narvii.com/6745/5893b7f9fd2f92cb98198bf88fe1205af1f4fd15_00.gif);
+	height: 220px;
+}
+
+@font-face {
+	font-family: Press;
+	src: url(FONTS/PressStart2P-Regular.ttf);
+}
